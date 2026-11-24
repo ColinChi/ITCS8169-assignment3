@@ -1,0 +1,16 @@
+# Versions used for the reported results (Python 3.10, CUDA 13.0)
+torch==2.14.1
+torchvision==0.29.1
+open_clip_torch==4.2.2
+transformers==5.20.2   # SigLIP tokenizers inside open_clip
+timm==1.0.31           # SigLIP / PE vision towers inside open_clip
+ftfy
+huggingface-hub==1.33.0
+Pillow
+# only for the SDXL support-set study (generate.py)
+diffusers==0.41.0
+accelerate==1.15.0
+# only for scripts/oracle_probe.py and scripts/build_report.py
+scikit-learn
+reportlab
+python-docx            # Word version of the report; the PDF is built without it

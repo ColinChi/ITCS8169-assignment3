@@ -1,0 +1,103 @@
+{
+ "seed": 8,
+ "classes": [
+  "Bedroom",
+  "Coast",
+  "Flower",
+  "Forest",
+  "Highway",
+  "Industrial",
+  "InsideCity",
+  "Kitchen",
+  "LivingRoom",
+  "Mountain",
+  "Office",
+  "OpenCountry",
+  "Store",
+  "Street",
+  "Suburb",
+  "TallBuilding"
+ ],
+ "shots": [
+  {
+   "class": "Bedroom",
+   "path": "data/train/Bedroom/image_0059.jpg",
+   "sha256": "28e34dfb59ae209cb9d96849265298a72a93019a93d33fa295d03b5cb06e7cbb"
+  },
+  {
+   "class": "Coast",
+   "path": "data/train/Coast/image_0198.jpg",
+   "sha256": "539d6552f785504c5e0ab26dee6688dd320405db83f8837211e3f04ac40e6ee3"
+  },
+  {
+   "class": "Flower",
+   "path": "data/train/Flower/image_0147.jpg",
+   "sha256": "6334d6ca14ccf9eeaec6b811d78f65817306107b84fdd32a3cc98fc813ee67c2"
+  },
+  {
+   "class": "Forest",
+   "path": "data/train/Forest/image_0033.jpg",
+   "sha256": "8bedd6316c15353e9e50c987da8a9e009e40f1c240f0bd5063937e4b52c7a172"
+  },
+  {
+   "class": "Highway",
+   "path": "data/train/Highway/image_0050.jpg",
+   "sha256": "1f1fc7d56dde10891e48605c46af1a688c744f8fbd0bf9b1509f33c3e67fc6b2"
+  },
+  {
+   "class": "Industrial",
+   "path": "data/train/Industrial/image_0012.jpg",
+   "sha256": "ca0b7092f5ac4e282ed279dc0669ebc083f6966afdea9a4e763ba1163b8007ae"
+  },
+  {
+   "class": "InsideCity",
+   "path": "data/train/InsideCity/image_0022.jpg",
+   "sha256": "e3645323b1082d7c52c8e39b92849bb8f0d1fce1ec97388b6b0afcbb9d5552ba"
+  },
+  {
+   "class": "Kitchen",
+   "path": "data/train/Kitchen/image_0036.jpg",
+   "sha256": "62372d6a88d01a3f74fa8cce963353153a135679829b2d53189c5ef74a2ac1db"
+  },
+  {
+   "class": "LivingRoom",
+   "path": "data/train/LivingRoom/image_0064.jpg",
+   "sha256": "8c89a9067869404944057f55cb89c7fea3abb73ee0a996136b1585bdd3290aa6"
+  },
+  {
+   "class": "Mountain",
+   "path": "data/train/Mountain/image_0317.jpg",
+   "sha256": "607b4951dacb19ed5ed6c12b13b2d3fade9955c9d4e6938ed9093b79024f62fd"
+  },
+  {
+   "class": "Office",
+   "path": "data/train/Office/image_0054.jpg",
+   "sha256": "d38fdab138ab0c84dc55ad797355672b03cea01adea587a6365ecf8abd5c260e"
+  },
+  {
+   "class": "OpenCountry",
+   "path": "data/train/OpenCountry/image_0217.jpg",
+   "sha256": "f0b651460508cd146f5bb2f6c1716136f70cc776f5b1ea2d8d115230fd11fcb7"
+  },
+  {
+   "class": "Store",
+   "path": "data/train/Store/image_0008.jpg",
+   "sha256": "40c03edde5ba8ec620f56862b23365440cd3132fe90fe8f042d2a75bb73cc674"
+  },
+  {
+   "class": "Street",
+   "path": "data/train/Street/image_0206.jpg",
+   "sha256": "617f55b833340d33d948cd06ae68544ae6de5bfa6226afb9cfab97ad26eaf762"
+  },
+  {
+   "class": "Suburb",
+   "path": "data/train/Suburb/image_0169.jpg",
+   "sha256": "8bdb9390ee6ffc4e1435779837808e39a6f8398504449b1440fa9ba3576e1e50"
+  },
+  {
+   "class": "TallBuilding",
+   "path": "data/train/TallBuilding/image_0257.jpg",
+   "sha256": "6170ab4c3e57598c2cd123e5356338f4e5a7eacabc413965662d9f9582017b66"
+  }
+ ]
+}

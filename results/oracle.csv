@@ -1,0 +1,7 @@
+model,linear_5fold,knn10_loo
+siglip2_so400m,97.50,94.00
+siglip2_g,98.50,94.00
+siglip_so400m,98.00,95.75
+clip_l14,97.00,94.75
+dfn_h14,98.25,95.75
+pe_g14,97.75,95.00
